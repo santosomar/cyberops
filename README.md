@@ -20,7 +20,7 @@ Cisco Press is the official publisher for Cisco certification and network techno
 
 ## Video Courses:
 * CCNA CyberOps SECFND 210-250 LiveLessons: http://www.ciscopress.com/bookstore/product.asp?isbn=9780134646787
-*CCNA Cyber Ops SECOPS 210-255 LiveLessons: http://www.ciscopress.com/store/ccna-cyber-ops-secops-210-255-complete-video-course-9780134661094
+* CCNA Cyber Ops SECOPS 210-255 LiveLessons: http://www.ciscopress.com/store/ccna-cyber-ops-secops-210-255-complete-video-course-9780134661094
 
 
 ## ABOUT THE 210-250 CCNA CYBER OPS SECFND EXAM
