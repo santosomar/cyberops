@@ -4,5 +4,11 @@ If you are a security professional, network engineer, or software developer, you
 
 Chapter 3 of the SECOPS Book, "Fundamentals of Intrusion Analysis", includes a few examples of regular expressions. The following are several additional resources that will help you become familiar with regular expressions, if you are not familiar with them.
 
+* RegexOne - Learn Regular Expressions with simple, interactive exercises: https://regexone.com/
 * Quick-Start: Regex Cheat Sheet:
 http://www.rexegg.com/regex-quickstart.html
+* Regular Expressions Cheat Sheet by DaveChild: https://www.cheatography.com/davechild/cheat-sheets/regular-expressions
+* RegExLib: http://regexlib.com/CheatSheet.aspx
+* JavaScript Regex Cheatsheet:
+https://www.debuggex.com/cheatsheet/regex/javascript
+* Python Regex Cheatsheet: https://www.debuggex.com/cheatsheet/regex/python
