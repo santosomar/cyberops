@@ -18,5 +18,5 @@ https://www.debuggex.com/cheatsheet/regex/javascript
 * Regex Cross­word: https://regexcrossword.com
 * RegexOne - Learn Regular Expressions with simple, interactive exercises: https://regexone.com
 * Regex 101: https://regex101.com
-* debuggex: https://www.debuggex.com
+* Debuggex: https://www.debuggex.com
 * Regex Golf: https://alf.nu/RegexGolf
