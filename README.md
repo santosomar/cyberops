@@ -23,9 +23,16 @@ Cisco Press is the official publisher for Cisco certification and network techno
 * [CCNA Cyber Ops SECOPS 210-255 LiveLessons](http://www.ciscopress.com/store/ccna-cyber-ops-secops-210-255-complete-video-course-9780134661094)
 
 
-## About the 210-250 CCNA CYBER OPS SECFND Exam
-The CCNA Cyber Ops: Understanding Cisco Cybersecurity Fundamentals (SECFND) 210-250 exam is the first of the two required exams to achieve the CCNA Cyber Ops certification and is aligned with the job role of associate-level security operations center (SOC) security analyst. The SECFND exam tests candidates’ understanding of cyber security’s basic principles, foundational knowledge, and core skills needed to grasp the more advanced associate-level materials in the second required exam: Implementing Cisco Cybersecurity Operations (SECOPS).
+## About the 210-250 CCNA CYBER OPS SECFND and SECOPS Exams
+### SECFND Exam
+**The CCNA Cyber Ops: Understanding Cisco Cybersecurity Fundamentals (SECFND) 210-250** exam is the first of the two required exams to achieve the CCNA Cyber Ops certification and is aligned with the job role of associate-level security operations center (SOC) security analyst. The SECFND exam tests candidates’ understanding of cyber security’s basic principles, foundational knowledge, and core skills needed to grasp the more advanced associate-level materials in the second required exam: Implementing Cisco Cybersecurity Operations (SECOPS).
 
-The CCNA Cyber Ops: Understanding Cisco Cybersecurity Fundamentals (SECFND) 210-250 exam is a computer-based test that has 55 to 60 questions and a 90-minute time limit. Because all exam information is managed by Cisco Systems and is therefore subject to change, candidates should continually monitor the Cisco Systems site for exam updates at: http://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/secfnd.html.
+The CCNA Cyber Ops: Understanding Cisco Cybersecurity Fundamentals (SECFND) 210-250 exam is a computer-based test that has 55 to 60 questions and a 90-minute time limit. Because all exam information is managed by Cisco Systems and is therefore subject to change, candidates should continually monitor the Cisco Systems site for exam updates at: https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/secfnd.html
 
-You can take the exam at Pearson VUE testing centers. You can register with VUE at http://www.vue.com/cisco 
+### SECOPS Exam
+This exam is the second of the two required exams in achieving the associate-level CCNA Cyber Ops certification and prepares candidates to begin a career within a Security Operations Center (SOC), working with Cybersecurity Analysts at the associate level. The SECFND exam tests a candidate's knowledge and skills needed to successfully handle the tasks, duties, and responsibilities of an associate-level Security Analyst working in a SOC.
+
+You can obtain additional information about the CCNA Cyber Ops SECOPS exam at:
+https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/secops.html
+
+You can take the exams at Pearson VUE testing centers. You can register with VUE at http://www.vue.com/cisco 
